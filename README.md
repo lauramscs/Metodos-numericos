@@ -22,8 +22,9 @@ En "Shooting_Tiro_parabolico_Amortiguado" se emplea el método de Runge Kutta y 
 </a>
 
 Finalmente en  "Shooting_Oscilador_Armonico" se emplea el código creado para el método de Shooting para resolver el problema del Oscilador Armónico Cuántico.
-<a href=\"https://colab.research.google.com/github/lauramscs/Metodos-numericos/blob/main/Shooting_Oscilador_Armonico.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
+ "\n",
+    "<a href=\"https://colab.research.google.com/github/lauramscs/Metodos-numericos/blob/main/Shooting_Oscilador_Armonico.ipynb\">\n",
+    "  <img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/>\n",
+    "</a>\n",
+    "\n",
 En cada uno de los códigos se explica con detalle cada paso a seguir para implementar dicho método, esto con el fin de que el lector pueda implementar los códigos para resolver otros problemas del mismo tipo, únicamente cambiando el sistema.
